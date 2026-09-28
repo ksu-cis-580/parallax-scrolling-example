@@ -1,5 +1,5 @@
 # Parallax Scrolling Exercise
-A starter project for exploring SpriteBatch trasnformations in MonoGame.
+A starter project for exploring SpriteBatch transformations in MonoGame.
 
 The associated video tutorial can be found at [https://youtu.be/cFpv0EvyBI4](https://youtu.be/cFpv0EvyBI4)
 
